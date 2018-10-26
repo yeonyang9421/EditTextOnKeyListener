@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EditTextOnKeyListener</string>
+    <string name="plain_text">plain_text</string>
+</resources>
